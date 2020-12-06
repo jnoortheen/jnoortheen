@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - ⚡ I love programming and try to contribute to open source community as much as possible in my free-time.
 - 💼 I am a freelancer developing web and desktop apps full-time :) Lets get in touch if you need a job done in those areas. 
-- 📫 Contact by: 
+- 📫 Contact: 
   - :office: [LinkedIn](https://www.linkedin.com/in/jnoortheen/)
   - :envelope: jnoortheen@gmail.com
   
