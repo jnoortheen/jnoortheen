@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Noortheen
 
 <!--
 **jnoortheen/jnoortheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ⚡ I love programming and try to contribute to open source community as much as possible in my free-time.
+- 💼 I am a freelancer developing web and desktop apps full-time :) Lets get in touch if you need a job done in those areas. 
+- 📫 Contact by: 
+  - :office: [LinkedIn](https://www.linkedin.com/in/jnoortheen/)
+  - :envelope: jnoortheen@gmail.com
+  
+  [![Noortheen Raja's github stats](https://github-readme-stats.vercel.app/api?username=jnoortheen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnoortheen&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
