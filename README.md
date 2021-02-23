@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ I love programming and try to contribute to open source community as much as possible in my free-time.
+- ⚡ I live and breathe programming and try to contribute to open source community as much as possible in my free-time.
 - 💼 I am a freelancer developing web and desktop apps full-time :) Lets get in touch if you need a job done in those areas. 
 - 📫 Contact: 
   - :office: [LinkedIn](https://www.linkedin.com/in/jnoortheen/)
