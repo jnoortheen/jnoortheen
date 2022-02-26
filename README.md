@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💼 I am a freelancer by profession, developing web and desktop apps. Feel free to e-mail me in touch if you need a job done in those areas.  
+- 💼 I am a freelancer by profession, developing web and desktop apps.  
 - ⚡ I love coding and try to contribute to open source community as much as possible in my free-time.
 - 📫 Contact: 
   - :office: [LinkedIn](https://www.linkedin.com/in/jnoortheen/)
