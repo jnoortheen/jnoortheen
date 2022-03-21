@@ -21,6 +21,3 @@ Here are some ideas to get you started:
   - :office: [LinkedIn](https://www.linkedin.com/in/jnoortheen/)
   - :envelope: jnoortheen@gmail.com
   
-  [![Noortheen Raja's github stats](https://github-readme-stats.vercel.app/api?username=jnoortheen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnoortheen&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
