@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💼 I am a freelancer by profession, developing web and desktop apps.  
-- ⚡ I love coding and try to contribute to open source community as much as possible in my free-time.
+- ⚡ I contribute back to the open source community as much as possible, especially the things I use regularly.
 - 📫 Contact: 
   - :office: [LinkedIn](https://www.linkedin.com/in/jnoortheen/)
   
