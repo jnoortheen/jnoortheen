@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - ⚡ I love coding and try to contribute to open source community as much as possible in my free-time.
 - 📫 Contact: 
   - :office: [LinkedIn](https://www.linkedin.com/in/jnoortheen/)
-  - :envelope: jnoortheen@gmail.com
   
